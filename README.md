@@ -5,7 +5,7 @@ Simulates a bsod (blue screen of dead) by using python
 Please negate the "" and type the text that is between the ""
 
  Instalation:
-1. Install python (if already installed, go to the next step) by going to python.org and hover with your cursor over the downloads tab and select windows.
+1. Install python (if already installed, go to the next step) by going to https://python.org and hover with your cursor over the downloads tab and select windows.
 2. Run the python installer and click "add path to envirnment variables" and "Install python for all users" and then click the install button
 3. Check if python is installed by typing in the command prompt "python --version" it should list your python version.
 4. install pip (the package installer for python) (if installed go to the next step) by going to https://pip.pypa.io/en/stable/installation/ and following the instructions.
